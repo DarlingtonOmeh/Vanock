@@ -46,8 +46,8 @@ See [USER-FLOW.md](USER-FLOW.md).
 The current model uses a 10-level network structure. The working example assumes:
 
 - Average profit per qualifying book: **₦10,000**
-- Rewards allocation: **40% of profit = ₦4,000**
-- Vanock retained portion before other costs: **60% = ₦6,000**
+- Rewards allocation: **20% of profit = ₦2,000**
+- Vanock retained portion before other costs: **80% = ₦8,000**
 
 See [REWARDS-MODEL.md](REWARDS-MODEL.md).
 
