@@ -13,8 +13,8 @@ The current planning model uses:
 | Item | Amount |
 |---|---:|
 | Average profit per qualifying book | ₦10,000 |
-| Rewards allocation (40%) | ₦4,000 |
-| Vanock retained portion (60%) | ₦6,000 |
+| Rewards allocation (20%) | ₦2,000 |
+| Vanock retained portion (60%) | ₦8,000 |
 
 The ₦6,000 retained amount is before other operating, payment, fulfillment, technology, marketing, tax, and administrative costs.
 
