@@ -32,7 +32,7 @@ These figures are planning assumptions and can change as the business develops.
 
 The platform is designed around the relationship between:
 
-**Products → Customers → Members → Referrals → Network → Rewards**
+**Products * Customers * Members * Referrals * Network * Rewards**
 
 The goal is to create a system in which book commerce supports customer acquisition and community growth.
 
