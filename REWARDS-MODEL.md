@@ -12,17 +12,17 @@ Using a ₦10,000 average profit per qualifying book:
 
 | Level | Rate | Example Reward |
 |---|---:|---:|
-| Level 1 | 10% | ₦1,000 |
-| Level 2 | 7% | ₦700 |
-| Level 3 | 5% | ₦500 |
-| Level 4 | 4% | ₦400 |
-| Level 5 | 3% | ₦300 |
-| Level 6 | 3% | ₦300 |
-| Level 7 | 2% | ₦200 |
-| Level 8 | 2% | ₦200 |
-| Level 9 | 2% | ₦200 |
-| Level 10 | 2% | ₦200 |
-| **Total** | **40%** | **₦4,000** |
+| Level 1 | 5% | ₦5000 |
+| Level 2 | 3.5% | ₦350 |
+| Level 3 | 2.5% | ₦250 |
+| Level 4 | 2% | ₦200 |
+| Level 5 | 1.5% | ₦150 |
+| Level 6 | 1.5% | ₦150 |
+| Level 7 | 1% | ₦100 |
+| Level 8 | 1% | ₦100 |
+| Level 9 | 1% | ₦100 |
+| Level 10 | 1% | ₦100 |
+| **Total** | **20%** | **₦2,000** |
 
 ## Example Network Structure
 
