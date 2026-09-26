@@ -37,7 +37,7 @@ See [BUSINESS-MODEL.md](BUSINESS-MODEL.md).
 
 A simplified Vanock customer journey is:
 
-**Discover → Register → Buy → Join → Refer → Build Network → Earn Rewards**
+**Discover * Register * Buy * Join * Refer * Build Network * Earn Rewards**
 
 See [USER-FLOW.md](USER-FLOW.md).
 
